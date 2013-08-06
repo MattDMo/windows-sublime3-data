@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+f1"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "PHP"} }
+]

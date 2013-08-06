@@ -1,0 +1,44 @@
+{
+	"auto_upgrade_last_run": null,
+	"git_binary": "c:\\git\\bin\\git.exe",
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorPicker",
+		"Display Functions (Java)",
+		"ExportHtml",
+		"F#",
+		"Git Config",
+		"Github Tools",
+		"HexViewer",
+		"HTML5",
+		"HTMLAttributes",
+		"jQuery",
+		"LESS",
+		"Neon Theme",
+		"Nodejs",
+		"Package Control",
+		"PersistentRegexHighlight",
+		"Processing",
+		"Prolog",
+		"Python Flake8 Lint",
+		"PythonTidy",
+		"SideBarEnhancements",
+		"sublime-better-coffeescript",
+		"Sublime-HTMLPrettify",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeJava",
+		"SublimeREPL",
+		"Tag",
+		"Terminal"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json"
+	]
+}

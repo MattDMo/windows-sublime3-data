@@ -1,0 +1,20 @@
+{
+        // Where to look for python virtualenvs
+    "python_virtualenv_paths": [
+        "~/.virtualenvs",  // virtualenvwrapper
+        "~/.venv",  // venv.bash https://github.com/wuub/venv
+        "~/py3_virtualenv"
+    ],
+
+    "repl_view_settings": {
+        "translate_tabs_to_spaces": true,
+        "auto_indent": true,
+        "smart_indent": true,
+        "indent_subsequent_lines": true,
+        "detect_indentation": true,
+        "auto_complete": true,
+        "line_numbers": true,
+        "gutter": true
+    }
+
+}
